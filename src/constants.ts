@@ -2,8 +2,8 @@ export const ASSET_URL =
   "https://opensea.io/assets/sorare";
 
 export enum EmbedTheme {
-  // Default = "true",
+  Default = "false",
   // Simple = "simple",
 }
 
-// export const CHOSEN_THEME = EmbedTheme.Default;
+export const CHOSEN_THEME = EmbedTheme.Default;
