@@ -46,7 +46,7 @@
   font-family: "Goudy Bookletter 1911", sans-serif;
   color: rgba(061, 149, 206, 0.801);
   text-shadow: 2px 2px rgb(252, 252, 252);
-  font-size: 4rem;
+  font-size: 5rem;
   line-height: 4rem;
   display: flex;
   flex-direction: column;
@@ -66,7 +66,7 @@
 }
 
 .App-hero-image {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 0;
   bottom: 0;
@@ -75,7 +75,7 @@
   filter: blur(3px);
   -webkit-filter: blur(3px);
   /* background-image: url("../images/hero.png"); */
-  background-size: cover;
+  background-size: auto;
   background-position: center center;
   background-repeat: no-repeat;
   opacity: 0.6;

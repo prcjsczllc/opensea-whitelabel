@@ -32,7 +32,7 @@ class App extends React.Component {
             </p>
             <small></small>
           </div>
-          <iframe id="opensea-iframe" title="Embedded   Marketplace" src={embeddedUrl} width='100%' height='1000' frameBorder='0' allowFullScreen></iframe>
+          <iframe id="opensea-iframe" title="Embedded   Marketplace" src={embeddedUrl} width='100%' height='2000' scrolling="yes" frameBorder='1'></iframe>
         </main>
         {/* <footer className="App-footer"> */}
           {/* Placeholder image for footer */}
