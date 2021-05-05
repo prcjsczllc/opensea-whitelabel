@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  height: 10vh;
+  height: 5vh;
   padding: 0 5vmax;
   display: flex;
   flex-direction: row;
@@ -37,13 +37,13 @@
 
 .App-hero {
   width: 100vw;
-  height: 30vmin;
+  height: 10vmin;
   min-height: 150px;
   background-color: #ffffff;
-  position: relative;
+  position: center;
 
   /* font-weight: 700; */
-  font-family: Arial, Verdana, sans-serif;
+  font-family: Arial, Verdana, sans-serif!important;
   color: rgba(061, 149, 206, 0.801);
   text-shadow: 2px 2px rgb(252, 252, 252);
   font-size: 5rem;
