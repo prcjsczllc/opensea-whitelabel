@@ -42,8 +42,8 @@
   background-color: #ffffff;
   position: relative;
 
-  font-weight: 700;
-  font-family: "Goudy Bookletter 1911", sans-serif;
+  /* font-weight: 700; */
+  font-family: Arial, Verdana, sans-serif;
   color: rgba(061, 149, 206, 0.801);
   text-shadow: 2px 2px rgb(252, 252, 252);
   font-size: 5rem;

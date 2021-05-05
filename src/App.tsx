@@ -20,7 +20,6 @@ class App extends React.Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            
           </p>
           <i className="material-icons right">menu</i>
         </header>
@@ -28,7 +27,7 @@ class App extends React.Component {
           <div className="App-hero">
             <div className="App-hero-image"></div>
             <p>
-              Venmo Digital Art Gallery
+              Venmo Digital Art Gallery 
             </p>
             <small></small>
           </div>
